@@ -1,8 +1,11 @@
 **💊🤖 MediBot AI Assistant**
+
 An intelligent AI-powered Streamlit application designed to revolutionize how healthcare professionals and researchers interact with patient medication data. Leveraging the power of Snowflake Cortex Analyst API, MediBot transforms complex SQL querying into intuitive natural language conversations, providing real-time insights and interactive data visualizations.
 
 **🎯 Problem Statement**
+
 1️⃣The Challenge: Healthcare professionals and researchers are frequently hindered by the necessity for specialized SQL knowledge to access and analyze critical patient medication data. This technical barrier creates significant delays in obtaining actionable insights from complex datasets.
+
 2️⃣Why it Matters: This directly impacts patient care (leading to delayed decisions and potentially compromised safety), impedes the pace of medical research, creates operational inefficiencies for data teams, and results in the underutilization of vast amounts of valuable healthcare data.
 
 **⏳ Process Before AI**
